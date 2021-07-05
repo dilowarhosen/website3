@@ -1,10 +1,10 @@
-body{
+body{font-family: 'Poppins', sans-serif;
     margin: 0;
 }
 .top-section{
     display: flex;
     background-color: #000000;
-    padding-bottom: 30px;
+    
     
 }
 .half-width{
@@ -58,7 +58,7 @@ h1{
     display: flex;
     background-color: #D43030;
     color: white;
-    padding-bottom: 30px;
+
 }
 
 .webdigigrap img{
@@ -86,11 +86,12 @@ background-color: rgb(75, 74, 74);
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
+    padding-bottom: 100px;
 }
 .middlesection{
     background-color: black;
     color: white;
-    padding-bottom: 30px;
+    
 }
 
 .half-width2{
