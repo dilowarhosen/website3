@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+.top-section{
+    display: flex;
+    background-color: black;
+    
+}
+.half-width{
+    width: 40%;
+    padding-left: 15%;
+
+}
+.half-width1{
+    width: 20%;
+    padding-left: 15%;
+}
+.topimg{
+    width: 500px;
+    
+}
+.toppharagraph{
+    color: white;
+    font-size: 17px;
+}
+p{
+    font-weight: 100;
+}
+
+#topname{
+    color: #D43030;
+}
+#hi{
+    color: white;
+}
+h1{
+    font-size: 50px;
+}
+
+.button1{
+    background-color: red;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.button1:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(38, 0, 255);
+    padding: 10px 30px;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+.webdigigrap{
+    display: flex;
+    background-color: #D43030;
+    color: white;
+}
+
+.webdigigrap img{
+    width: 50px;
+    position: left;
+
+}
+h3{
+    font-size: 30px;
+}
+
+.threeonewidth{
+width: 25%;
+padding: 2% 5%;
+}
+
+.threeonewidth:hover{
+background-color: rgb(75, 74, 74);
+}
+
+.successpart{
+    display: flex;
+}
+.webmarclient{
+    display: flex;
+}
+.middlesection{
+    background-color: black;
+    color: white;
+}
+
+.half-width2{
+    width: 40%;
+    padding: 5%;
+}
